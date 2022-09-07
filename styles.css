@@ -1,5 +1,14 @@
 h1 {
     color: #fc3e2f;
-    text-align: center;
     font-family: Helvetica, Arial, sans-serif;
+    font-size: 6rem;
+    text-align: center;
+
+}
+
+.description {
+    color: #3e2ffc;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 4rem;
+    text-align: center;
 }
